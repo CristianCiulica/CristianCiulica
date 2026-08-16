@@ -1,12 +1,11 @@
 <div align="center">
 
-# Cristian Ciulică
-
-### CS Student · Aspiring Full-Stack & AI Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cristian%20Ciulic%C4%83&fontSize=40&fontColor=E6E6FA&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Full-Stack%20and%20AI%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&height=40&lines=3rd+Year+Applied+Computer+Science+%40+UNITBV;Learning+Java%2C+Spring+Boot%2C+React+%26+Angular;Exploring+AI+%2F+ML+with+Python" />
 
 ![Location](https://img.shields.io/badge/Bra%C8%99ov%2C%20Romania-6A0DAD?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=CristianCiulica&color=8A2BE2&style=for-the-badge&label=VIEWS)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://cristianciulica.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-ciulica)
@@ -15,6 +14,8 @@
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 ## About Me
 
@@ -33,6 +34,8 @@ Third-year **Applied Computer Science** student at **Transilvania University of 
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 ## Projects
 
@@ -69,12 +72,19 @@ Helping high schoolers prep for the Baccalaureate exam in algorithms and math.
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CristianCiulica&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8A2BE2&text_color=E6E6FA" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianCiulica&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=A78BFA&fire=9400D3" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=CristianCiulica&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8A2BE2&text_color=E6E6FA" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=CristianCiulica&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=A78BFA&fire=9400D3" width="48%"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CristianCiulica&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=E6E6FA" width="45%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CristianCiulica&theme=radical&no-frame=true&column=4&margin-w=6&margin-h=6" width="53%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CristianCiulica&theme=react-dark&color=A78BFA&line=8A2BE2&point=E6E6FA&area=true&hide_border=true" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/CristianCiulica/CristianCiulica/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -84,7 +94,7 @@ Helping high schoolers prep for the Baccalaureate exam in algorithms and math.
 
 <div align="center">
 
-*Still learning — always building.*
+### *Still learning — always building.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
