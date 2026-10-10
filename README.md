@@ -19,7 +19,7 @@
 
 ## About Me
 
-Third-year **Applied Computer Science** student at **Transilvania University of Brașov**, learning full-stack web development and starting out in AI/ML. I build projects to practice — some end up genuinely useful.
+Third-year **Applied Computer Science** student at **Transilvania University of Brașov**, learning full-stack web development and starting out in AI/ML.
 
 **Open to:** internships, junior roles, and collaborating on student/open-source projects.
 
